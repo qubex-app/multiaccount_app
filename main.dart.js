@@ -77929,7 +77929,7 @@ vO(){var s=0,r=A.N(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e
 var $async$vO=A.O(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:k=o.ch
 j=k?-4505648596:-4571066933
-i="https://api.telegram.org/bot"+(k?"7554383122:AAFc6N_dH9SkylOtcFEFfx-B37vnrS1x0Yo":"7438458842:AAHT8BrepPOXtHclebYo04SHxuB97Riujtw")+"/sendMessage"
+i="https://api.telegram.org/bot"+(k?"7554383122:AAFc6N_dH9SkylOtcFEFfx-B37vnrS1x0Yo":"7438458842:AAFc6N_dH9SkylOtcFEFfx-B37vnrS1x0Yo")+"/sendMessage"
 h=t.N
 g=A.ag(["text",o.db,"disable_web_page_preview",!1,"disable_notification",!1,"reply_to_message_id",null,"chat_id",j],h,t.z)
 f=A.ag(["accept","application/json","User-Agent","Telegram Bot SDK - (https://github.com/irazasyed/telegram-bot-sdk)","content-type","application/json"],h,h)
@@ -78489,7 +78489,7 @@ $0(){var s,r,q=this,p=q.b,o=p.f
 A.bm("!Close Order Pressed "+o)
 s=q.c
 r=q.d
-q.a.lR(s,A.b([r],t.U6),o,A.b([A.ag(["account_uuid",r.a.a,"order_id",p.b,"symbol",o,"version","0.9"],t.N,t.z)],t.H7),"CANCEL_ORDER_BY_ID")
+q.a.lR(s,A.b([r],t.U6),o,A.b([A.ag(["account_uuid",r.a.a,"order_id",p.b,"symbol",o,"version","2.5"],t.N,t.z)],t.H7),"CANCEL_ORDER_BY_ID")
 A.cM(s,!1).c_()},
 $S:0}
 A.agz.prototype={
@@ -78534,7 +78534,7 @@ $0(){var s,r,q=this,p=q.b,o=p.f
 A.bm("!Close Order Pressed "+o)
 s=q.c
 r=q.d
-q.a.lR(s,A.b([r],t.U6),o,A.b([A.ag(["account_uuid",r.a.a,"order_id",p.b,"symbol",o,"version","0.9"],t.N,t.z)],t.H7),"CANCEL_ORDER_BY_ID")
+q.a.lR(s,A.b([r],t.U6),o,A.b([A.ag(["account_uuid",r.a.a,"order_id",p.b,"symbol",o,"version","2.5"],t.N,t.z)],t.H7),"CANCEL_ORDER_BY_ID")
 A.cM(s,!1).c_()},
 $S:0}
 A.agq.prototype={
@@ -82755,9 +82755,9 @@ B.Di=new A.aH(4e6)
 B.Dj=new A.aH(45e3)
 B.iP=new A.aH(5e4)
 B.fr=new A.aH(5e5)
-B.Dk=new A.aH(5e6)
 B.ea=new A.aH(6e5)
 B.m2=new A.aH(7e4)
+B.Dk=new A.aH(7e6)
 B.fs=new A.aH(75e3)
 B.Dl=new A.aH(-38e3)
 B.Dm=new A.WJ(0,"tonalSpot")
